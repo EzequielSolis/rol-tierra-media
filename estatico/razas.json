@@ -1,0 +1,480 @@
+{
+		"Hobbit" : {
+			"bonoAtributos" : {
+				"fuerza"		:	-20,
+				"agilidad"		:	15,
+				"constitucion" 	:	15,
+				"inteligencia"	:	0,
+				"intuicion"		:	-5,
+				"presencia"		:	-5
+				},
+			"bonoTR" : {
+				"ese"	:	50,
+				"can"	:	20,
+				"ve"	:	30,
+				"enf"	:	15
+			},
+
+			"habAdol" : {
+				"sinArmadura" : 		1,
+				"cuero" : 				0,
+				"cueroEndurecido" : 	0,
+				"cotaMalla" : 		0,
+				
+				"filo" 	: 			0,
+				"contundente" :		0,
+				"dosManos" : 			0,
+				"arrojadizas" : 		2,
+				"proyectiles" : 		2,
+				"asta" : 		0,
+				
+				"trepar" :				2,
+				"montar" :		 		0,
+				"nadar" : 				0,
+				
+				"emboscar" :			0,
+				"acecharEsconderse" : 	5,
+				"abrirCerraduras" :	1,
+				"desactivarTrampas" :	1,
+				
+				"leerRunas" :			0,
+				"objetosMagicos" :		0,
+				
+				"desarrolloFisico" :	2,
+				"percepcion"		:	4,
+				
+				"probListaSortilegios" : 	0,
+				
+				"gradosAdicionalesIdiomas"	:	3,
+				
+				"puntosHistorial" :	5
+			
+			
+			}
+			
+		
+		},
+		
+		"Umli" : {
+		
+			"bonoAtributos" : {
+				"fuerza"		:	5,
+				"agilidad"		:	0,
+				"constitucion" 	:	10,
+				"inteligencia"	:	0,
+				"intuicion"		:	-5,
+				"presencia"		:	-5
+				},
+			"bonoTR" : {
+				"ese"	:	20,
+				"can"	:	0,
+				"ve"	:	5,
+				"enf"	:	5
+			},
+		
+		
+			"habAdol" : {
+				"sinArmadura" : 		1,
+				"cuero" : 				3,
+				"cueroEndurecido" : 	3,
+				"cotaMalla" : 		0,
+				
+				"filo" 	: 			0,
+				"contundente" :		3,
+				"dosManos" : 			1,
+				"arrojadizas" : 		1,
+				"proyectiles" : 		0,
+				"asta" : 		0,
+				
+				"trepar" :				0,
+				"montar" :		 		0,
+				"nadar" : 				1,
+				
+				"emboscar" :			0,
+				"acecharEsconderse" : 	1,
+				"abrirCerraduras" :	0,
+				"desactivarTrampas" :	0,
+				
+				"leerRunas" :			0,
+				"objetosMagicos" :		0,
+				
+				"desarrolloFisico" :	2,
+				"percepcion"		:	1,
+				
+				"probListaSortilegios" : 	5,
+				
+				"gradosAdicionalesIdiomas"	:	3,
+				
+				"puntosHistorial" :	4
+			}
+		
+		},
+		
+		"Enano" : {
+			"bonoAtributos" : {
+				"fuerza"		:	5,
+				"agilidad"		:	-5,
+				"constitucion" 	:	15,
+				"inteligencia"	:	0,
+				"intuicion"		:	-5,
+				"presencia"		:	-5
+				},
+			"bonoTR" : {
+				"ese"	:	40,
+				"can"	:	0,
+				"ve"	:	10,
+				"enf"	:	10
+			},
+			"habAdol" : {
+				"sinArmadura" : 		1,
+				"cuero" : 				0,
+				"cueroEndurecido" : 	1,
+				"cotaMalla" : 		3,
+				
+				"filo" 	: 			0,
+				"contundente" :		4,
+				"dosManos" : 			0,
+				"arrojadizas" : 		1,
+				"proyectiles" : 		0,
+				"asta" : 		0,
+				
+				"trepar" :				1,
+				"montar" :		 		0,
+				"nadar" : 				0,
+				
+				"emboscar" :			0,
+				"acecharEsconderse" : 	0,
+				"abrirCerraduras" :	1,
+				"desactivarTrampas" :	1,
+				
+				"leerRunas" :			0,
+				"objetosMagicos" :		0,
+				
+				"desarrolloFisico" :	3,
+				"percepcion"		:	2,
+				
+				"probListaSortilegios" : 	3,
+				
+				"gradosAdicionalesIdiomas"	:	4,
+				
+				"puntosHistorial" :	4
+			}
+		
+		},
+		
+		"Wose" : {
+			"bonoAtributos" : {
+				"fuerza"		:	0,
+				"agilidad"		:	0,
+				"constitucion" 	:	5,
+				"inteligencia"	:	0,
+				"intuicion"		:	0,
+				"presencia"		:	-5
+				},
+			"bonoTR" : {
+				"ese"	:	20,
+				"can"	:	0,
+				"ve"	:	0,
+				"enf"	:	0
+			},
+			"habAdol" : {
+				"sinArmadura" : 		1,
+				"cuero" : 				3,
+				"cueroEndurecido" : 	0,
+				"cotaMalla" : 		0,
+				
+				"filo" 	: 			2,
+				"contundente" :		0,
+				"dosManos" : 			0,
+				"arrojadizas" : 		4,
+				"proyectiles" : 		0,
+				"asta" : 		1,
+				
+				"trepar" :				3,
+				"montar" :		 		0,
+				"nadar" : 				2,
+				
+				"emboscar" :			2,
+				"acecharEsconderse" : 	4,
+				"abrirCerraduras" :	0,
+				"desactivarTrampas" :	0,
+				
+				"leerRunas" :			0,
+				"objetosMagicos" :		0,
+				
+				"desarrolloFisico" :	3,
+				"percepcion"		:	1,
+				
+				"probListaSortilegios" : 	5,
+				
+				"gradosAdicionalesIdiomas"	:	2,
+				
+				"puntosHistorial" :	5
+			}
+		
+		},
+		
+		"Humano" : { 
+			"bonoAtributos" : {
+				"fuerza"		:	5,
+				"agilidad"		:	0,
+				"constitucion" 	:	0,
+				"inteligencia"	:	0,
+				"intuicion"		:	0,
+				"presencia"		:	0
+				},
+			"bonoTR" : {
+				"ese"	:	0,
+				"can"	:	0,
+				"ve"	:	0,
+				"enf"	:	0
+			},
+			"habAdol" : {
+				"sinArmadura" : 		1,
+				"cuero" : 				0,
+				"cueroEndurecido" : 	1,
+				"cotaMalla" : 		2,
+				
+				"filo" 	: 			2,
+				"contundente" :		0,
+				"dosManos" : 			0,
+				"arrojadizas" : 		0,
+				"proyectiles" : 		1,
+				"asta" : 		1,
+				
+				"trepar" :				0,
+				"montar" :		 		8,
+				"nadar" : 				1,
+				
+				"emboscar" :			0,
+				"acecharEsconderse" : 	0,
+				"abrirCerraduras" :	0,
+				"desactivarTrampas" :	0,
+				
+				"leerRunas" :			0,
+				"objetosMagicos" :		0,
+				
+				"desarrolloFisico" :	2,
+				"percepcion"		:	1,
+				
+				"probListaSortilegios" : 	3,
+				
+				"gradosAdicionalesIdiomas"	:	4,
+				
+				"puntosHistorial" :	5
+			}
+		
+		},
+		
+		"Medio Elfo" : {
+			"bonoAtributos" : {
+				"fuerza"		:	5,
+				"agilidad"		:	5,
+				"constitucion" 	:	5,
+				"inteligencia"	:	0,
+				"intuicion"		:	0,
+				"presencia"		:	5
+				},
+			"bonoTR" : {
+				"ese"	:	0,
+				"can"	:	0,
+				"ve"	:	5,
+				"enf"	:	50
+			},
+			"habAdol" : {
+				"sinArmadura" : 		1,
+				"cuero" : 				0,
+				"cueroEndurecido" : 	1,
+				"cotaMalla" : 		1,
+				
+				"filo" 	: 			1,
+				"contundente" :		0,
+				"dosManos" : 			0,
+				"arrojadizas" : 		0,
+				"proyectiles" : 		2,
+				"asta" : 		0,
+				
+				"trepar" :				1,
+				"montar" :		 		1,
+				"nadar" : 				1,
+				
+				"emboscar" :			0,
+				"acecharEsconderse" : 	2,
+				"abrirCerraduras" :	0,
+				"desactivarTrampas" :	0,
+				
+				"leerRunas" :			1,
+				"objetosMagicos" :		0,
+				
+				"desarrolloFisico" :	1,
+				"percepcion"		:	1,
+				
+				"probListaSortilegios" : 	10,
+				
+				"gradosAdicionalesIdiomas"	:	4,
+				
+				"puntosHistorial" :	3
+			}
+		
+		},
+		
+		"Elfo Silvano" : {
+			"bonoAtributos" : {
+				"fuerza"		:	0,
+				"agilidad"		:	10,
+				"constitucion" 	:	0,
+				"inteligencia"	:	0,
+				"intuicion"		:	5,
+				"presencia"		:	5
+				},
+			"bonoTR" : {
+				"ese"	:	0,
+				"can"	:	0,
+				"ve"	:	10,
+				"enf"	:	100
+			},
+			"habAdol" : {
+				"sinArmadura" : 		1,
+				"cuero" : 				0,
+				"cueroEndurecido" : 	0,
+				"cotaMalla" : 		0,
+				
+				"filo" 	: 			1,
+				"contundente" :		0,
+				"dosManos" : 			0,
+				"arrojadizas" : 		0,
+				"proyectiles" : 		3,
+				"asta" : 		0,
+				
+				"trepar" :				2,
+				"montar" :		 		1,
+				"nadar" : 				3,
+				
+				"emboscar" :			0,
+				"acecharEsconderse" : 	4,
+				"abrirCerraduras" :	0,
+				"desactivarTrampas" :	0,
+				
+				"leerRunas" :			1,
+				"objetosMagicos" :		0,
+				
+				"desarrolloFisico" :	1,
+				"percepcion"		:	3,
+				
+				"probListaSortilegios" : 	20,
+				
+				"gradosAdicionalesIdiomas"	:	6,
+				
+				"puntosHistorial" :	4
+			}
+		
+		},
+		
+		"Elfo Sindar" : {
+			"bonoAtributos" : {
+				"fuerza"		:	0,
+				"agilidad"		:	10,
+				"constitucion" 	:	5,
+				"inteligencia"	:	0,
+				"intuicion"		:	5,
+				"presencia"		:	10
+				},
+			"bonoTR" : {
+				"ese"	:	0,
+				"can"	:	0,
+				"ve"	:	10,
+				"enf"	:	100
+			},
+			"habAdol" : {
+				"sinArmadura" : 		1,
+				"cuero" : 				0,
+				"cueroEndurecido" : 	0,
+				"cotaMalla" : 		0,
+				
+				"filo" 	: 			1,
+				"contundente" :		0,
+				"dosManos" : 			0,
+				"arrojadizas" : 		0,
+				"proyectiles" : 		2,
+				"asta" : 		0,
+				
+				"trepar" :				1,
+				"montar" :		 		1,
+				"nadar" : 				2,
+				
+				"emboscar" :			0,
+				"acecharEsconderse" : 	3,
+				"abrirCerraduras" :	0,
+				"desactivarTrampas" :	0,
+				
+				"leerRunas" :			1,
+				"objetosMagicos" :		1,
+				
+				"desarrolloFisico" :	1,
+				"percepcion"		:	3,
+				
+				"probListaSortilegios" : 	30,
+				
+				"gradosAdicionalesIdiomas"	:	8,
+				
+				"puntosHistorial" :	3
+			}
+		
+		},
+		
+		"Elfo Noldor" : {
+			"bonoAtributos" : {
+				"fuerza"		:	0,
+				"agilidad"		:	15,
+				"constitucion" 	:	10,
+				"inteligencia"	:	5,
+				"intuicion"		:	5,
+				"presencia"		:	15
+				},
+			"bonoTR" : {
+				"ese"	:	0,
+				"can"	:	0,
+				"ve"	:	10,
+				"enf"	:	100
+			},
+			"habAdol" : {
+				"sinArmadura" : 		1,
+				"cuero" : 				0,
+				"cueroEndurecido" : 	0,
+				"cotaMalla" : 		0,
+				
+				"filo" 	: 			1,
+				"contundente" :		0,
+				"dosManos" : 			0,
+				"arrojadizas" : 		0,
+				"proyectiles" : 		1,
+				"asta" : 		0,
+				
+				"trepar" :				1,
+				"montar" :		 		1,
+				"nadar" : 				2,
+				
+				"emboscar" :			0,
+				"acecharEsconderse" : 	2,
+				"abrirCerraduras" :	0,
+				"desactivarTrampas" :	0,
+				
+				"leerRunas" :			2,
+				"objetosMagicos" :		1,
+				
+				"desarrolloFisico" :	1,
+				"percepcion"		:	3,
+				
+				"probListaSortilegios" : 	40,
+				
+				"gradosAdicionalesIdiomas"	:	10,
+				
+				"puntosHistorial" :	2
+			}
+		
+		}
+
+		
+		
+
+}

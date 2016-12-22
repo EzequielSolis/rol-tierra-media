@@ -1,0 +1,170 @@
+[
+	{
+		"id"		:	0,
+		"nombre"	:	"Escudo",
+		"tipo"	:	"Armadura",
+		"precio"	:	5.5,
+		"peso"	:	7.5
+
+	},
+	{
+		"id"		:	1,
+		"nombre"	:	"Armadura de cuero",
+		"tipo"	:	"Armadura",
+		"precio"	:	3,
+		"peso"	:	6
+	},
+		{
+		"id"		:	2,
+		"nombre"	:	"Armadura de cuero endurecido",
+		"tipo"	:	"Armadura",
+		"precio"	:	10,
+		"peso"	:	7
+	},
+		{
+		"id"		:	3,
+		"nombre"	:	"Cota de malla",
+		"tipo"	:	"Armadura",
+		"precio"	:	35,
+		"peso"	:	10
+	},
+		{
+		"id"		:	4,
+		"nombre"	:	"Coraza",
+		"tipo"	:	"Armadura",
+		"precio"	:	50,
+		"peso"	:	12.5
+	},
+	{
+		"id"		:	5,
+		"nombre"	:	"Arco corto",
+		"precio"	:	6,
+		"peso"	:	1,
+		"tipo"	:	"Proyectil",
+		"pifia"	:	4,
+		"critico"	:	"PE",
+		"alcance"	:	18,
+		"escudo"	: 	false
+	},
+	{
+		"id"		:	6,
+		"nombre"	:	"Arco largo",
+		"precio"	:	10,
+		"peso"	:	1.5,
+		"tipo"	:	"Proyectil",
+		"pifia"	:	5,
+		"critico"	:	"PE",
+		"alcance"	:	30,
+		"escudo"	: 	false
+	},
+	{
+		"id"		:	7,
+		"nombre"	:	"Hacha",
+		"precio"	:	5,
+		"peso"	:	2.5,
+		"tipo"	:	"Filo",
+		"pifia"	:	4,
+		"critico"	:	"TA",
+		"alcance"	:	0,
+		"escudo"	: 	true
+	},
+	{
+		"id"		:	8,
+		"nombre"	:	"Espada corta",
+		"precio"	:	7,
+		"peso"	:	1.5,
+		"tipo"	:	"Filo",
+		"pifia"	:	2,
+		"critico"	:	"TA",
+		"alcance"	:	0,
+		"escudo"	: 	true
+	},
+	{
+		"id"		:	9,
+		"nombre"	:	"Maza de combate",
+		"precio"	:	16,
+		"peso"	:	2.5,
+		"tipo"	:	"Contundente",
+		"pifia"	:	4,
+		"critico"	:	"AP",
+		"alcance"	:	0,
+		"escudo"	: 	true
+	},
+	{
+		"id"		:	10,
+		"nombre"	:	"Martillo de guerra",
+		"precio"	:	15,
+		"peso"	:	2.5,
+		"tipo"	:	"Contundente",
+		"pifia"	:	5,
+		"critico"	:	"AP",
+		"alcance"	:	0,
+		"escudo"	: 	true
+	},
+	{
+		"id"		:	11,
+		"nombre"	:	"Lanza",
+		"precio"	:	2.3,
+		"peso"	:	2.5,
+		"tipo"	:	"Asta",
+		"pifia"	:	5,
+		"critico"	:	"PE",
+		"alcance"	:	0,
+		"escudo"	: 	true
+	},
+	{
+		"id"		:	12,
+		"nombre"	:	"Alabarda",
+		"precio"	:	14,
+		"peso"	:	3.5,
+		"tipo"	:	"Asta",
+		"pifia"	:	7,
+		"critico"	:	"TA",
+		"alcance"	:	0,
+		"escudo"	: 	false
+	},
+	{
+		"id"		:	13,
+		"nombre"	:	"Hacha de combate",
+		"precio"	:	13,
+		"peso"	:	3.5,
+		"tipo"	:	"A dos manos",
+		"pifia"	:	5,
+		"critico"	:	"TA",
+		"alcance"	:	0,
+		"escudo"	: 	false
+	},
+	{
+		"id"		:	14,
+		"nombre"	:	"Espadón",
+		"precio"	:	20,
+		"peso"	:	4,
+		"tipo"	:	"A dos manos",
+		"pifia"	:	5,
+		"critico"	:	"TA",
+		"alcance"	:	0,
+		"escudo"	: 	false
+	}, 
+	{
+		"id"		:	15,
+		"nombre"	:	"Draaf",
+		"precio"	:	5,
+		"peso"	:	0,
+		"tipo"	:	"Consumible",
+		"descripcion"	: "Cura 1d10 puntos de vida",
+		"vida"	:	"1d10"
+	}, 
+	{
+		"id"		:	16,
+		"nombre"	:	"Gariig",
+		"precio"	:	55,
+		"peso"	:	0,
+		"tipo"	:	"Consumible",
+		"descripcion" : "Cura 30 puntos de vida",
+		"vida"	:	"30"
+	}
+
+
+
+
+]

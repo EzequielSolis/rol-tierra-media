@@ -1,0 +1,2584 @@
+{
+		"Esencia" : {
+			"EnaltezamientoFisico" : {
+				"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+
+			},
+			"ManoDeLaEsencia" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"Ilusiones" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"ViasDeLaApertura" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"ViasDeLosSortilegios" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"ViasDeLaEsencia" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"DominioEspiritual" : {
+			"nombre" : "Dominio Espiritual",
+				"imp" : 0,
+				"nivel1" : {
+					"nombre" : "Dormir V",
+					"descripcion" : "Hace que el blanco (o blancos) se duerma; el número de niveles que pueden verse afectados es 5 (por ejemplo, cinco blancos de primer nivel; un blanco de cuarto nivel y uno de primero, etc.). Todos los blancos deben estar a la vista de quien realiza el sortilegio.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "Encantar Semejante",
+					"descripcion" : "El blanco (que debe ser humanoide) cree que quien realiza el sortilegio es un buen amigo.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "Dormir VII",
+					"descripcion" : "Igual que Dormir V, pero hasta 7 niveles.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "Confusión",
+					"descripcion" : "El blanco es incapaz de tomar decisiones o iniciar acciones durante 1 asalto/5 puntos de fallo de TR. El blanco puede seguir combatiendo contra contrincantes con los que ya luchaba o actuar en defensa propia.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "Sugestion",
+					"descripcion" : "El blanco realizará solo un acto que se le sugiera y que no le resulte completamente extraño (es decir, no se suicidará ni se arrancará los ojos).",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "Dormir X",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: "Como Dormir V, pero pueden verse afectados hasta 10 niveles."
+				},
+				"nivel7" : {
+					"nombre" : "Retener Semejante",
+					"descripcion" : "Un blanco humanoide se ve reducido al 25% de su actividad normal mientras quien realiza el sortilegio esté concentrado.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "Dominio de Semejante",
+					"descripcion" : "El blanco deberá obedecer a quien realiza el sortilegio como si se tratase de un Sugestión durante lo que dure el sortilegio. El que lanza el sortilegio puede usar cualquier número de sugerencias no extrañas al blanco.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "Encantamiento Verdadero",
+					"descripcion" : "Igual que Encantar Semejante pero ahora puede afectar a cualquier criatura viva y sensible.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "Búsqueda",
+					"descripcion" : "Se le da una misión al blanco; si falla tendrá una penalización determinada por el DJ (la misión debe estar al alcance de las capacidades del blanco). La penalización debe ser un pequeño impedimento, tal como una disminución en las características o una fobia (por ejemplo, miedo a las arañas o al agua) o cualquier otra enfermedad mental o incapacidad física (una cojera, reumatismo, cicatrices, etc.)",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"PercepcionesDeLaEsencia" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			}		
+		},
+		
+		"Canalizacion" : {
+			"MaestriaEnLaDeteccion" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+
+			},
+			"ViasDeLaLuzYSonido" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"SerenarEspiritus" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"ViasDeLaSuperficie" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"Protecciones" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"DefensaContraSortilegios" : {
+			"nombre" : "Defensa Contra Sortilegios",
+				"imp" : 0,
+				"nivel1" : {
+					"nombre" : "Protección I",
+					"descripcion" : "Resta 10 a las tiradas de ataques elementales contra el blanco y suma 10 a las TR del blanco contra sortilegios.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "Area de Protección I",
+					"descripcion" : "Igual que Protección I, pero todos los seres en un radio de 3 metros alrededor del blanco obtienen los beneficiones cuando quién realiza el sortilegio se concentra.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "Neutralizar Maldición",
+					"descripcion" : "Anula los efectos de una maldición mientras dura el sortilegio. No se disipa la maldición, que vuelve a ser efectiva después. La maldición obtiene una TR modificada en -20 para ver si evita la neutralización.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "Protección II",
+					"descripcion" : "Igual que Protección I pero las bonificaciones son de 20",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "Area de Protección II",
+					"descripcion" : "Igual que Area de Protección I, pero las bonificaciones son de 20.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "Quitar Maldición",
+					"descripcion" : "Anula una maldición si ésta falla una TR; el nivel del blanco es el nivel de quien lanzó la maldición y el nivel del atacante es el del personaje que realiza el sortilegio. Una vez se ha realizado este sortilegio sobre una maldición dada, no podrá ser realizado por el mismo personaje hasta que haya subido de nivel.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "Neutralizar Maldición",
+					"descripcion" : "Igual que el anterior, pero la maldición se anula durante 1 hora por nivel del personaje que realiza el sortilegio.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "Anular Sortilegio",
+					"descripcion" : "Igual que Quitar Maldición, pero se anula un sortilegio activo",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "Protección III",
+					"descripcion" : "Igual que Protección I, pero las bonificaciones son de 30.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "Area de Protección III",
+					"descripcion" : "Igual que Area de Protección I, pero las bonificaciones son de 30.",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"MovimientoDeLaNaturaleza" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"SabiduriaDeLaNaturaleza" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			}	
+		},
+		
+		"Mago" : {
+			"LeyDeTierra" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"LeyDeHielo" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"LeyDeLaLuz" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"LeyDelFuego" : {
+			"nombre" : "Ley del Fuego",
+				"imp" : 0,
+				"nivel1" : {
+					"nombre" : "Hervir Líquido",
+					"descripcion" : "Se puede calentar cualquier líquido inerte (30 dm cúbicos por nivel) hasta el punto de ebullición, a razón de 30 dm cúbicos cada asalto de concentración.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "Calentar Sólido",
+					"descripcion" : "Cualquier material sólido inerte, no metálico (30 dm. cúbicos por nivel) puede calentarse hasta alcanzar los 38º C a razón de 90 cm. cúbicos por cada asalto en que se concentra quien realiza el sortilegio.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "Combustión de Madera",
+					"descripcion" : "Hace que cualquier madera (o material orgánico inerte) que elija el que realiza el sortilegio y que se encuentre a 30 cm. de su mano, se encienda y comience a arder.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "Muro de Fuego",
+					"descripcion" : "Crea un muro opaco de fuego (de hasta 3m. x 3m. x 180cm.). Uno de sus extremos debe reposar sobre una base sólida. Cualquiera que lo atraviese recibe un crítico A de calor (no hay TR)",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "Caldear Sólido",
+					"descripcion" : "Igual que calentar sólido, pero el material puede caldearse hasta alcanzar los 260º C, a razón de 55º por asalto de concentración.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "Rayo Ignéo",
+					"descripcion" : "Se dispara un rayo ígneo desde la palma de la mano de quien realiza el sortilegio; los resultados se determinan en la tabla de Ataques de Rayo.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "Invocar Llamas",
+					"descripcion" : "Crea un cubo opaco de llamas (de hasta 3x3x3 metros); se necesita un asalto completo de concentración para que se forme el cubo y sea efectivo. Una de sus caras debe reposar sobre una superficie sólida. Cualquiera que lo atraviese recibe un crítico A de calor (no hay TR).",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "Bola de Fuego",
+					"descripcion" : "Se lanza una bola de fuego de 30 cm. de diámetro desde la palma de la mano del que realiza el sortilegio, estalla en un punto elegido por dicho personaje y afecta un area de 3 metros de radio; los resultados se determinan en la tabla de Ataques de Bola.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "Aura de Llamas",
+					"descripcion" : "El que realiza el sortilegio puede tocar un objeto (que ocupe una superficie de hasta 150cm. de radio) y crear un aura de llamas alrededor suyo. Las llamas no afectarán ni a quien realizó el sortilegio ni a quien sostiene el objeto (si lo hay), pero cualquier otro que toque el objeto recibirá un crítico B de calor. Si se realiza sobre un arma y el arma se utiliza para inflingir un crítico normal, dicha arma hará tambien un crítico B de calor.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "Círculo Flamígero",
+					"descripcion" : "Igual que Muro de Fuego, pero en esta ocasión el muro tiene una altura de 3 metros y forma un círculo de 3 metros de radio (15 cm. de espesor), con quien realizó el sortilegio como centro (no puede moverse).",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"PuenteSublime" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"LeyDelAgua" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"CambioVital" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"LeyDelViento" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			}	
+		},
+		
+		"Animista" : {
+			"ControlDeLasPlantas" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"CanalizacionDirecta" : {
+			"nombre" : "Canalización Directa",
+				"imp" : 0,
+				"nivel1" : {
+					"nombre" : "Preservación",
+					"descripcion" : "El animista puede preservar un cuerpo impidiendo que se deteriore o sufra más daño (por ejemplo, hemorragias, destrucción de células, descomposición, etc.). Si el blanco sigue vivo, caerá en coma; este sortilegio no impide la muerte.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "Intuiciones I",
+					"descripcion" : "EL animista tiene una visión de lo que sucederá probablemente durante el minuto siguiente si realiza una acción determinada.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "Sueño I",
+					"descripcion" : "El animista sueña con un tema que él escoge. Debe dormir o meditar durante 8 horas, como mínimo.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "Vida Suspendida",
+					"descripcion" : "El animista puede impedir que el alma abandone un cuerpo muerto, evitando así la muerte real y permitiendo la recuperación del ser caído mediante curas físicas (hará falta Preservación para preservar el cuerpo). Vida Suspendida debe realizarse sobre el blanco antes de que transcurran 2 minutos (12 asaltos) desde el momento de la muerte, o el alma abandonará el cuerpo.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "Intuiciones III",
+					"descripcion" : "Igual que Intiuciones I, pero el periodo de tiempo será de 3 minutos.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "Relato de la Muerte",
+					"descripcion" : "El animista tiene una visión de los acontecimientos que rodearon la muerte de 1 cadáver, a traves de los ojos del muerto. También podrá ver al que lo mató. El muerto debe haber fallecido, como máximo, hace un número de años igual al nivel del animista que realiza el sortilegio.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "Preservación",
+					"descripcion" : "Igual que el anterior del mismo nombre, pero la duración es de 1 día por nivel.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "Intuiciones V",
+					"descripcion" : "Igual que Intuiciones I, pero el periodo de tiempo es de 5 minutos.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "Sueño III",
+					"descripcion" : "Igual que Sueño I, pero el límite es de 3 sueños durante 8 horas. Cada sueño puede referirse a un tema distinto.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "Vida Suspendida",
+					"descripcion" : "Igual que el anterior del mismo nombre, pero la duración es de 1 día por nivel.",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"ControlAnimal" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"ViasDeLosMusculosYHuesos" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"ViasDeLaSangre" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"ViasDeLosOrganos" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"Purificaciones" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"Creaciones" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			}	
+		
+		},
+		
+		"Montaraz" : {
+			"DominioDeLasSendas" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"ViasDelMovimiento" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"ManerasDeLaNaturaleza" : {
+			"nombre" : "Maneras de la Naturaleza",
+				"imp" : 0,
+				"nivel1" : {
+					"nombre" : "Matizar",
+					"descripcion" : "El montaraz y el equipo que se encuentre hasta a 30cm. de su cuerpo coge la coloración de un objeto orgánico elegido por el montaraz y con el que esté en contacto. Da una bonificación de +50 a los intentos de esconderse (1 min/nivel).",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "Tinieblas",
+					"descripcion" : "Todas las sombras y oscuridad en un radio de 30 m. alrededor del punto tocado aumentan, ayudando a esconderse en +25.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "Helar",
+					"descripcion" : "Cualquier líquido inanimado (30 dm3/nivel) puede ser enfriado hasta la temperatura de congelación a una velocidad de 30 dm. cúbicos por asalto de concentración (la temperatura no podrá ser menor que 34º bajo cero).",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "Movimientos Silenciosos",
+					"descripcion" : "El montaraz se moverá silenciosamente, siempre y cuando no provoque un sonido que surja a más de 30 cm. de su cuerpo (por ejemplo, dar un portazo, golpear una rama que mide 1 metro, etc.)",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "Autodisimulo",
+					"descripcion" : "Mientras no se mueva (se pueden hacer pequeños movimientos como respirar y flexionar los músculos) el montaraz se confunde con el terreno circundante, y suma una bonificacion de +75 a esconderse.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "Luz",
+					"descripcion" : "Ilumina una zona de 3 metros de radio alrededor del punto tocado.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "Oscuridad",
+					"descripcion" : "Igual que Luz, pero el resultado es oscuridad en un radio de 3 metros. Equivale a la oscuridad de una noche negra y sin luna.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "El montaraz y el equipo que se encuentre hasta a 30 cm. de su cuerpo parecen una sombra, por lo que se convierten en prácticamente invisibles en las zonas oscuras o sombreadas.",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "Aspecto de Planta",
+					"descripcion" : "El montaraz puede parecer igual que un tipo de planta, pero el efecto es puramente visual, no cambiará ni su tamaño, ni olerá o tendrá el tacto de la planta.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "Mente en Blanco",
+					"descripcion" : "Mientras permanezca concentrado, los esquemas mentales del montaraz parecerán los de cualquier animal de la zona que elija. Ello burlará los sortilegios de detección como el de Presencia.",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"ViasDeLaNaturaleza" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			}
+		},
+		
+		"Bardo" : {
+			"CancionesDeControl" : {
+				"nombre" : "Canciones de Control",
+				"imp" : 0,
+				"nivel1" : {
+					"nombre" : "Canción Tranquilizante",
+					"descripcion" : "El blanco se tranquiliza y no puede realizar acciones agresivas, mientras el bardo esté cantando/tocando (requiere concentración) y tenga el blanco a la vista o dentro del alcance del sortilegio.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "Canción Paralizante",
+					"descripcion" : "Igual que la Canción Tranquilizante, pero el efecto es que el blanco sólo puede realizar un 25% de sus acciones normales",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "Canción Aturdidora",
+					"descripcion" : "Igual que la Canción Tranquilizante, pero el efecto es que el blanco queda aturdido",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "Canción del Silencio",
+					"descripcion" : "Igual que la Canción Tranquilizante, pero el efecto es que el blanco no puede hablar",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "Canción del Sueño",
+					"descripcion" : "Igual que la Canción Tranquilizante, pero el efecto es que el blanco cae en un sueño ligero",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "Canción Encantamiento",
+					"descripcion" : "Igual que la Canción Tranquilizante, pero el blanco cree que el bardo que realiza el sortilegio es un b uen amigo y si éste toca/canta durante un mínimo de 3 asaltos el efecto durará durante 10 minutos una vez pare de cantar/tocar.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "Canción del Miedo",
+					"descripcion" : "Igual que la Canción Tranquilizante, pero el efecto es que el blanco tiene miedo del bardo e intenta alejarse de él",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "Canción Tranquilizante Verdadera",
+					"descripcion" : "Igual que la Canción Tranquilizante, pero cuando el bardo cesa de cantar/tocar el efecto continuará durante un número de asaltos igual al que ha estado cantando/tocando el bardo.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "Canción Aturdidora Verdadera",
+					"descripcion" : "Igual que Canción Tranquilizante Verdadera, pero el efecto es que el blanco queda aturdido.",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "Canción del Olvido",
+					"descripcion" : "El blanco olvidará lo que ha ocurrido durante un periodo determinado de tiempo, especificado por el bardo que realiza el sortilegio (algo que haya ocurrido dentro de 1 día/nivel, es decir que un bardo de décimo nivel puede hacer olvidar algo ocurrido durante los últimos diez días). El periodo de tiempo a olvidar será igual de largo que el tiempo que el bardo se pase cantando/tocando.",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"ConocimientoDeLosObjetos" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"Conocimiento" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			},
+			"ControlDelSonido" : {
+			"nombre" : "Enaltezamiento Físico",
+				"imp" : -1,
+				"nivel1" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel2" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel3" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel4" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel5" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel6" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel7" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel8" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel9" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				},
+				"nivel10" : {
+					"nombre" : "",
+					"descripcion" : "",
+					"auto" :	0,
+					"efecto"	: ""
+				}
+			}
+		
+		}	
+
+}

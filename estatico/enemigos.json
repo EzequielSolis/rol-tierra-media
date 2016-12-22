@@ -1,0 +1,108 @@
+{
+		"Araña gigante" : {
+			"id"	:	0,
+			"nivel" : 5,
+			"velocidad" :	20,
+			"vidaMaxima"	:	50,
+			"armadura"	:	"cotaMalla",
+			"bd"	:	20,
+			"ataque"	:	60,
+			"tipoAtaque"	:	"picoPinzas",
+			"tamano" 	:	"M",
+			"critico"	:	"reg"
+			
+		},
+		"Dragon" : {
+			"id"	:	1,
+			"nivel" : 25,
+			"velocidad" :	24,
+			"vidaMaxima"	:	260,
+			"armadura"	:	"coraza",
+			"bd"	:	40,
+			"ataque"	:	175,
+			"tipoAtaque"	:	"mordisco",
+			"tamano" 	:	"E",
+			"critico"	:	"ene"
+			
+		},
+		"Gigante" : {
+			"id"	:	2,
+			"nivel" : 20,
+			"velocidad" :	15,
+			"vidaMaxima"	:	350,
+			"armadura"	:	"cueroEndurecido",
+			"bd"	:	30,
+			"ataque"	:	140,
+			"tipoAtaque"	:	"topetazo",
+			"tamano" 	:	"E",
+			"critico"	:	"ene"
+			
+		},
+		"Licantropo" : {
+			"id"	:	3,
+			"nivel" : 10,
+			"velocidad" :	42,
+			"vidaMaxima"	:	250,
+			"armadura"	:	"cueroEndurecido",
+			"bd"	:	65,
+			"ataque"	:	20,
+			"tipoAtaque"	:	"mordisco",
+			"tamano" 	:	"E",
+			"critico"	:	"gde"
+			
+		},
+		"Orco debil" : {
+			"id"	:	4,
+			"nivel" : 1,
+			"velocidad" :	24,
+			"vidaMaxima"	:	35,
+			"armadura"	:	"sinArmadura",
+			"bd"	:	25,
+			"ataque"	:	35,
+			"tipoAtaque"	:	"arma",
+			"tamano" 	:	"-",
+			"critico"	:	"reg"
+
+		},
+		"Orco fuerte" : {
+			"id"	:	5,
+			"nivel" : 5,
+			"velocidad" :	24,
+			"vidaMaxima"	:	85,
+			"armadura"	:	"cotaMalla",
+			"bd"	:	30,
+			"ataque"	:	75,
+			"tipoAtaque"	:	"arma",
+			"tamano" 	:	"-",
+			"critico"	:	"reg"
+
+		},
+		"Troll" : {
+			"id"	:	6,
+			"nivel" : 12,
+			"velocidad" :	20,
+			"vidaMaxima"	:	180,
+			"armadura"	:	"cueroEndurecido",
+			"bd"	:	35,
+			"ataque"	:	150,
+			"tipoAtaque"	:	"garra",
+			"tamano" 	:	"E",
+			"critico"	:	"gde"
+
+		},
+		"Vampiro" : {
+			"id"	:	7,	
+			"nivel" : 15,
+			"velocidad" :	52,
+			"vidaMaxima"	:	150,
+			"armadura"	:	"sinArmadura",
+			"bd"	:	65,
+			"ataque"	:	100,
+			"tipoAtaque"	:	"garra",
+			"tamano" 	:	"E",
+			"critico"	:	"gde"
+
+		}
+
+		
+}

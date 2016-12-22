@@ -1,0 +1,188 @@
+{
+		"Guerrero" : {
+			"bonificaciones" : {
+				"armas" : 3,
+				"generales" : 1,
+				"subterfugio" : 0,
+				"magicas" : 0,
+				
+				"acecharEsconderse" : 0,
+				"leerRunas" : 0,
+				"objetosMagicos" : 0,
+				
+				"desarrolloFisico" : 2,
+				"percepcion" : 0,
+				
+				"sortilegiosBasicos" : 0,
+				"sortilegiosDirigidos" : 0
+			},
+			"desarrollo" : {
+				"movimiento" : 3,
+				"armas" : 5,
+				"generales" : 2,
+				"subterfugio" : 2,
+				"magicas" : 0,
+				"desarrolloFisico" : 3,
+				"idiomas" : 0,
+				"listaSortilegio" : 0
+				},
+			"primario" : "fuerza"
+			
+		
+		},
+		
+		"Explorador" : {
+			"bonificaciones" : {
+					"armas" : 1,
+					"generales" : 0,
+					"subterfugio" : 2,
+					"magicas" : 0,
+					
+					"acecharEsconderse" : 0,
+					"leerRunas" : 0,
+					"objetosMagicos" : 0,
+					
+					"desarrolloFisico" : 0,
+					"percepcion" : 3,
+					
+					"sortilegiosBasicos" : 0,
+					"sortilegiosDirigidos" : 0
+				},
+			"desarrollo" : {
+					"movimiento" : 1,
+					"armas" : 3,
+					"generales" : 3,
+					"subterfugio" : 5,
+					"magicas" : 0,
+					"desarrolloFisico" : 2,
+					"idiomas" : 1,
+					"listaSortilegio" : 0
+					},
+			"primario" : "agilidad"
+		
+		},
+		
+		"Mago" : {
+			"bonificaciones" : {
+				"armas" : 0,
+				"generales" : 0,
+				"subterfugio" : 0,
+				"magicas" : 0,
+				
+				"acecharEsconderse" : 0,
+				"leerRunas" : 2,
+				"objetosMagicos" : 2,
+				
+				"desarrolloFisico" : 0,
+				"percepcion" : 0,
+				
+				"sortilegiosBasicos" : 2,
+				"sortilegiosDirigidos" : 3
+			},
+			"desarrollo" : {
+				"movimiento" : 0,
+				"armas" : 0,
+				"generales" : 2,
+				"subterfugio" : 0,
+				"magicas" : 5,
+				"desarrolloFisico" : 1,
+				"idiomas" : 2,
+				"listaSortilegio" : 5
+				},
+			"primario" : "inteligencia"
+		},
+		
+		"Animista" : {
+			"bonificaciones" : {
+				"armas" : 0,
+				"generales" : 1,
+				"subterfugio" : 0,
+				"magicas" : 0,
+				
+				"acecharEsconderse" : 0,
+				"leerRunas" : 1,
+				"objetosMagicos" : 1,
+				
+				"desarrolloFisico" : 0,
+				"percepcion" : 1,
+				
+				"sortilegiosBasicos" : 2,
+				"sortilegiosDirigidos" : 2
+			},
+			"desarrollo" : {
+				"movimiento" : 1,
+				"armas" : 1,
+				"generales" : 2,
+				"subterfugio" : 1,
+				"magicas" : 2,
+				"desarrolloFisico" : 1,
+				"idiomas" : 2,
+				"listaSortilegio" : 5
+				},
+			"primario" : "intuicion"
+		
+		},
+		
+		"Montaraz" : {
+			"bonificaciones" : {
+				"armas" : 2,
+				"generales" : 3,
+				"subterfugio" : 0,
+				"magicas" : 0,
+				
+				"acecharEsconderse" : 2,
+				"leerRunas" : 0,
+				"objetosMagicos" : 0,
+				
+				"desarrolloFisico" : 0,
+				"percepcion" : 2,
+				
+				"sortilegiosBasicos" : 0,
+				"sortilegiosDirigidos" : 0
+			},
+			"desarrollo" : {
+				"movimiento" : 2,
+				"armas" : 3,
+				"generales" : 4,
+				"subterfugio" : 2,
+				"magicas" : 0,
+				"desarrolloFisico" : 2,
+				"idiomas" : 1,
+				"listaSortilegio" : 1
+				},
+			"primario" : "constitucion"
+		
+		},
+		
+		"Bardo" : {
+			"bonificaciones" : {
+				"armas" : 1,
+				"generales" : 1,
+				"subterfugio" : 1,
+				"magicas" : 1,
+				
+				"acecharEsconderse" : 0,
+				"leerRunas" : 0,
+				"objetosMagicos" : 0,
+				
+				"desarrolloFisico" : 0,
+				"percepcion" : 1,
+				
+				"sortilegiosBasicos" : 1,
+				"sortilegiosDirigidos" : 0
+			},
+			"desarrollo" : {
+				"movimiento" : 0,
+				"armas" : 2,
+				"generales" : 2,
+				"subterfugio" : 2,
+				"magicas" : 2,
+				"desarrolloFisico" : 1,
+				"idiomas" : 3,
+				"listaSortilegio" : 2
+				},
+			"primario" : "presencia"
+		
+		}	
+
+}
