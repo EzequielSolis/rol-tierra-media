@@ -5,10 +5,15 @@ Plataforma que permite jugar partidas online mediante un navegador web con vario
 
 Para instalarlo en un servidor web es necesario:
 1) Crear la base de datos contenida en /db
+
 2) Introducir los datos de acceso de dicha base de datos en loginDB.php
+
 3) Instalar Node.js con todas las dependencias necesarias (express, socket.io y chance.js)
+
 4) Abrir el puerto 8080 del router que de acceso al servidor web (puede usarse otro puerto modificando el parametro de server.listen() en server.js)
+
 5) Modificar el dns objetivo dentro de jugar.js y crearPJ.js en las primeras líneas:
+
 ```
 var socket = io.connect('http://roltierramedia.ddns.net:8080')
 ```
